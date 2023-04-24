@@ -1,0 +1,6 @@
+Duck Hunt C++, OpenGL
+
+• Implemented a common ’shoot object’ 2D game in OpenGL using primitives.
+• The program features a flying duck which bounces off the borders of the screen and which the player has to shoot
+using the mouse to gather points. With every duck that escapes unshot the player ’life’ decreases and with every
+other 3 ducks emerging on the screen their flying speed increases.
